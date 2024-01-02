@@ -1,1 +1,1 @@
-This is my first test project on the Odin Project!
+This is my first test project on the Odin Project in my learning journey!
